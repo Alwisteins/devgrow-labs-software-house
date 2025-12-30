@@ -22,7 +22,7 @@ const portfolios = [
     id: "kratonstay",
     title: "KratonStay",
     subtitle: "Hotel Booking Website",
-    image: "/kratonstay.png",
+    image: "/portfolio/kratonstay.png",
     industry: "Hospitality",
     clientType: "Hotel Business",
     description:
@@ -34,7 +34,7 @@ const portfolios = [
     id: "growth2up",
     title: "Growth2Up",
     subtitle: "Digital Marketing Landing Page",
-    image: "/growth2up.png",
+    image: "/portfolio/growth2up.png",
     industry: "Digital Marketing",
     clientType: "Service Business",
     description:
@@ -46,7 +46,7 @@ const portfolios = [
     id: "umrahease",
     title: "UmrahEase",
     subtitle: "Umrah Travel Website",
-    image: "/umrahease.png",
+    image: "/portfolio/umrahease.png",
     industry: "Travel",
     clientType: "Travel Agency",
     description:
